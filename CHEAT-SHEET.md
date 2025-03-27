@@ -17,4 +17,4 @@
 | gRPC     | ✅       | Enable TLS + cert pinning |
 | QUIC     | ❌       | Block at LB               |
 
-[... Add remaining content from PDF ...]
+[... PDF: (https://github.com/zus3c/ssrf-cheatsheet-2025/blob/main/SSRF%20Prevention%20Cheat%20Sheet%202025%20Edition.pdf) ...]
