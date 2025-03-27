@@ -18,3 +18,4 @@
 ## 📜 License
 MIT Licensed. See [LICENSE](LICENSE).
 
+For more cutting-edge cybersecurity insights, follow me on Twitter, LinkedIn, and GitHub! 🚀 Stay updated on the latest security trends—subscribe to my Whatsapp channel and Medium blog for deep-dive analysis and tutorials. Let's secure the web together! 
