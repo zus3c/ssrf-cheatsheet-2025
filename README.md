@@ -18,4 +18,4 @@
 ## 📜 License
 MIT Licensed. See [LICENSE](LICENSE).
 
-For more cutting-edge cybersecurity insights, follow me on Twitter, LinkedIn, and GitHub! 🚀 Stay updated on the latest security trends—subscribe to my Whatsapp channel and Medium blog for deep-dive analysis and tutorials. Let's secure the web together! 
+For more cutting-edge cybersecurity insights, follow me on Twitter ( https://x.com/zus3cu ), LinkedIn ( https://pk.linkedin.com/in/zus3c ), and GitHub ( https://github.com/Zus3c )! 🚀 Stay updated on the latest security trends—subscribe to my Whatsapp channel ( https://whatsapp.com/channel/0029VahEpDoGZNCjNV0vXF1B ) and Medium blog ( https://zus3c.medium.com ) for deep-dive analysis and tutorials. Let's secure the web together! 
