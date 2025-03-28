@@ -14,6 +14,7 @@
 ## Quick Start
 1. **View Online**: Click [CHEAT-SHEET.md](CHEAT-SHEET.md).
 2. **Download**: `git clone https://github.com/zus3c/ssrf-cheatsheet-2025.git`
+3. **SSRF Cheat Sheet 2025: Latest Exploits, Defenses & Real-World Case Studies**: `https://zus3c.medium.com/ssrf-cheat-sheet-2025-latest-exploits-defenses-real-world-case-studies-6f028d121455`
 
 ## 📜 License
 MIT Licensed. See [LICENSE](LICENSE).
